@@ -1,0 +1,5 @@
+.idea
+.venv
+venv
+wayzone_admin_service/.env
+__pycache__
